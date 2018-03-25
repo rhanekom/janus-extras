@@ -1,2 +1,3 @@
 # janus-extras
-Extra plugins to the Janus VI plugin pack
+
+Personal configuration of extra plugins for Janus.
